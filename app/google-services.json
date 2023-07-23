@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81773939333",
+    "project_id": "uasrafli-8d925",
+    "storage_bucket": "uasrafli-8d925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81773939333:android:464c2928af38fc5eecf7ec",
+        "android_client_info": {
+          "package_name": "com.example.laundryuas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81773939333-ktea0apqflcrc9h4s0460ntciutk6i9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLcqJuXphevwUrSIaARYOX5D-Zin3Zf7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81773939333-ktea0apqflcrc9h4s0460ntciutk6i9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
